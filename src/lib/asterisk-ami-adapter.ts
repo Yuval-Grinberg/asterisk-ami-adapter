@@ -1,4 +1,4 @@
-import EventEmitter from "node:events";
+import EventEmitter from 'eventemitter3';
 import crypto from "node:crypto";
 import fs from "node:fs";
 import net from "node:net";
